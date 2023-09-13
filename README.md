@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad sabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sabir" height="30" width="40" /></a>
-<a href="https://fb.com/sabir sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabir sk" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadsabir90909090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsabir90909090" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadsabir90909090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadsabir90909090" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabir01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sabir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MSABIR0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabir sk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/msabir_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsabir90909090" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWmsIBPAlYRKU87bBwuml9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadsabir90909090" height="30" width="40" /></a>
 
 </p>
 
@@ -23,4 +23,3 @@
 </p>
 <p align="right"  >  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ImKunYoung&count_private=true&show_icons=true"/></a>
 </p>
-s
