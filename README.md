@@ -1,4 +1,3 @@
-![image](https://github.com/sabir-01/sabir-01/assets/136722898/2584bdac-2932-48d6-bca9-50eee32c9cae)
 
 <h1 align="center">Hi 👋, I'm Muhammad sabir</h1>
 <h3 align="center">A passionate software student from Pakistan</h3>
