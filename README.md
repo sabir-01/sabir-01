@@ -44,10 +44,8 @@
 
 ### 📌 Featured Projects  
 <p align="center">
-<a href="https://github.com/sabir-01/YourProject1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabir-01&repo=YourProject1&theme=radical" />
-</a>
-<a href="https://github.com/sabir-01/YourProject2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabir-01&repo=YourProject2&theme=radical" />
-</a>
+  <a href="https://portfolio-gray-psi-qynls6gbbe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
