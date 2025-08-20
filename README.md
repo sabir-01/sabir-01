@@ -12,10 +12,18 @@
 
 ### 🌐 Connect with me  
 <p align="center">
-<a href="https://www.linkedin.com/in/sabir01/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://www.facebook.com/MSABIR0" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-<a href="https://www.instagram.com/msabir_01/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://www.youtube.com/channel/UCWmsIBPAlYRKU87bBwuml9g" target="blank"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+<a href="https://www.linkedin.com/in/sabir01/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://www.facebook.com/MSABIR0" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" style="filter: invert(1);" />
+</a>
+<a href="https://www.instagram.com/msabir_01/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="https://www.youtube.com/channel/UCWmsIBPAlYRKU87bBwuml9g" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40" style="filter: invert(1);" />
+</a>
 </p>
 
 ---
@@ -48,4 +56,3 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
